@@ -32,7 +32,7 @@ https://github.com/substobeme/blockchain-midsem1-project-smart-contract-for-medi
 
 # Advantage over traditional approach
 This project deviates from the tradition centralized database approach of storing and retrieving data by integrating smart contracts in accomplishing the set goal. </br>
-This is because of the following advantages:
+This is because of the following advantages:</br>
 <b>1.Immutable and Tamper-Proof:</b> Smart contracts on blockchain provide immutability, making it nearly impossible to alter or delete stored data. This is critical for maintaining the integrity of sensitive medical records.
 
 <b> 2.Enhanced Security:</b> Blockchain technology employs robust encryption and cryptographic techniques, reducing the risk of data breaches and unauthorized access. Patient confidentiality is better protected.
