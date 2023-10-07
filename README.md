@@ -37,8 +37,8 @@ This is because of the following advantages:</br>
 
 <b>2.Better Security:</b> Blockchain technology uses strong encryption and security methods, reducing the chances of data breaches and unauthorized access. Patients' private information is kept safer.
 
-<b>3.Decentralization:</b> Data isn't kept on one central server; it's spread across many computers. This makes it less likely for all the data to be lost or damaged in one place.
+<b>3.Decentralization:</b> Data isn't kept on one central server; but is distributed in nature. This makes it less likely for all the data to be lost or damaged in one place.
 
 <b>4.Less Administrative Work:</b> Smart contracts can handle routine administrative tasks, reducing the need for lots of paperwork and manual data input. This makes things more efficient and can save hospitals and clinics money.
 
-<b>5.Detailed Record Keeping:</b> Smart contracts keep thorough records of any changes or access to data. This can be really useful for following rules and regulations, as well as for legal purposes.
+<b>5.Detailed Record Keeping:</b> Smart contracts keep thorough records of any changes or access to data. This can be really useful for following rules and regulations, as well as for legal purposes to track data change.
