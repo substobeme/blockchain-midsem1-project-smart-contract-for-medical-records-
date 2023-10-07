@@ -28,7 +28,8 @@ HTML: The standard markup language for creating the web interface(UI).</br>
 JavaScript (Web3.js): JavaScript library for interacting with the Ethereum blockchain and smart contracts.</br>
 MetaMask: A browser extension used for Ethereum wallet management and blockchain interaction.
 
-![image](https://github.com/substobeme/blockchain-midsem1-project-smart-contract-for-medical-records-/assets/86897887/b2bf8528-8db7-4792-a236-f98c4cdaa622)
+![image](https://github.com/substobeme/blockchain-midsem1-project-smart-contract-for-medical-records-/assets/86897887/3a2b4572-dc0a-4478-863f-eb3b7a046b2b)
+
 
 
 <b> Video Demo </b>
