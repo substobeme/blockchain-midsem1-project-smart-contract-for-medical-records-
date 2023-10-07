@@ -41,9 +41,8 @@ This is because of the following advantages:</br>
 
 <b>3.Decentralization:</b> Data isn't kept on one central server; but is distributed in nature. This makes it less likely for all the data to be lost or damaged due to a single point of failure.
 
-<b>4.Less Administrative Work:</b> Smart contracts can handle routine administrative tasks, reducing the need for lots of paperwork and manual data input. This makes things more efficient and can save hospitals and clinics money.
+<b>4.Detailed Record Keeping:</b> Smart contracts keep thorough records of any changes or access to data. This can be really useful for following rules and maintaining regulations related to data updation.
 
-<b>5.Detailed Record Keeping:</b> Smart contracts keep thorough records of any changes or access to data. This can be really useful for following rules and regulations, as well as for legal purposes to track data change.
 
 # Conclusion
-In summary, using smart contracts for healthcare records has some big benefits. It ensures data integrity through immutability and enhances security, safeguarding patient privacy. Decentralization minimizes the risk of data loss or single points of failure.It also makes things more efficient, reducing the need for lots of paperwork and saving money. And it keeps a detailed history of all the changes made to the records, which can be really helpful for following rules and regulations related to data updation. Overall, smart contracts in healthcare are a smart move for better, safer, and more efficient record-keeping in the healthcare industry.
+In summary, using smart contracts for healthcare records has some big benefits. It ensures data integrity through immutability and enhances security, safeguarding patient privacy. Decentralization minimizes the risk of data loss due to single points of failure.It also makes things more efficient, reducing the need for lots of paperwork and saving money. And it keeps a detailed history of all the changes made to the records, which can be really helpful for following rules and maintaining regulations related to data updation. Overall, smart contracts in healthcare are a smart move for better, safer, and more efficient record-keeping in the healthcare industry.
