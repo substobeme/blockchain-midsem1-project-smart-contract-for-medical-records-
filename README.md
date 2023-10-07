@@ -11,19 +11,14 @@ This project aims to be a user-friendly and secure healthcare data management sy
 The techstack of this project involves:
 
 <b>Blockchain and Smart Contracts:</b><br/>
-Ethereum: The blockchain platform used for deploying smart contracts.
-Solidity: The programming language used for writing smart contracts.
-Smart Contracts: These contracts manage the storage and retrieval of patient, doctor, and hospital information securely on the blockchain.
+Ethereum: The blockchain platform used for deploying smart contracts.</br>
+Smart Contracts(using Solidity): These contracts manage the storage and retrieval of patient, doctor, and hospital information securely on the blockchain.
 
 <b>Web Development:</b></br>
-HTML: The markup language for creating the web interface.
-JavaScript (Web3.js): JavaScript library for interacting with the Ethereum blockchain and smart contracts.
+HTML: The markup language for creating the web interface(UI).</br>
+JavaScript (Web3.js): JavaScript library for interacting with the Ethereum blockchain and smart contracts.</br>
 MetaMask: A browser extension used for Ethereum wallet management and blockchain interaction.
 
-<b>User Interface (UI):</b></br>
-HTML Forms: Used for user input .
-Buttons: To trigger actions like retrieving patient details.
-Text Fields and DIVs: To display patient and attendant details.
 
 <b> Video Demo </b>
 
