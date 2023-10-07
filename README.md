@@ -1,1 +1,1 @@
-# blockchain-midsem1-project-smart-contract-for-medical-records-
+# Smart contract in healthcare(midsem project report)
