@@ -1,6 +1,7 @@
 # Smart contract in healthcare(midsem project report)
 # Table of contents
-1.Introduction<br />
+1.Introduction<br /> 
+https://github.com/substobeme/blockchain-midsem1-project-smart-contract-for-medical-records-/blob/main/README.md#introduction
 2.Project(With Video Demo)<br/>
 
 
