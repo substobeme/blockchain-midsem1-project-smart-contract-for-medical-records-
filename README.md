@@ -1,11 +1,13 @@
 # Smart contract in healthcare(midsem project report)
 # Table of contents
 1.Introduction<br /> 
-https://github.com/substobeme/blockchain-midsem1-project-smart-contract-for-medical-records-/blob/main/README.md#introduction
-2.Project(with video demo)<br/>
+
+2.Project(with video demo)<br/> 
+https://github.com/substobeme/blockchain-midsem1-project-smart-contract-for-medical-records-/blob/main/README.md#project-overview
 
 
-
+# Introduction
+Smart contracts have been responsible for revolutionizing the way patient, doctor, and hospital records are managed in the healthcare industry. These self-executing nature of the contracts, built on blockchain technology, offer a secure and transparent means of storing and retrieving sensitive medical information.For patients, smart contracts enable them to have greater control over their health data, granting access only to authorized healthcare providers while maintaining data privacy. Doctors benefit from a streamlined and efficient system for recording patient diagnoses and treatments, reducing administrative overhead. Hospitals can securely store and share patient records across their network, ensuring seamless collaboration and improved patient care. The immutable nature of blockchain ensures the integrity and authenticity of medical records, reducing the risk of data tampering or loss.
 # Project Overview
 This project aims to be a user-friendly and secure healthcare data management system that utilizes smart contracts and integrates with the Metamask wallet. It allows for the collection and storage of essential patient, doctor, and hospital information in a reliable and tamper-proof manner. Users can easily input their data into the system, which ensures data security through blockchain technology. When needed, the project can efficiently retrieve and display this information, simplifying healthcare record management for patients, doctors, and hospitals alike. It offers a convenient and trustworthy solution for healthcare data management in the digital age.</br>
 The techstack of this project involves:
