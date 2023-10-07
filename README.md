@@ -8,6 +8,22 @@ https://github.com/substobeme/blockchain-midsem1-project-smart-contract-for-medi
 
 # Project Overview
 This project aims to be a user-friendly and secure healthcare data management system that utilizes smart contracts and integrates with the Metamask wallet. It allows for the collection and storage of essential patient, doctor, and hospital information in a reliable and tamper-proof manner. Users can easily input their data into the system, which ensures data security through blockchain technology. When needed, the project can efficiently retrieve and display this information, simplifying healthcare record management for patients, doctors, and hospitals alike. It offers a convenient and trustworthy solution for healthcare data management in the digital age.
+The techstack of this project involves:
+
+<b>Blockchain and Smart Contracts:</b><br/>
+Ethereum: The blockchain platform used for deploying smart contracts.
+Solidity: The programming language used for writing smart contracts.
+Smart Contracts: These contracts manage the storage and retrieval of patient, doctor, and hospital information securely on the blockchain.
+
+<b>Web Development:</b></br>
+HTML: The markup language for creating the web interface.
+JavaScript (Web3.js): JavaScript library for interacting with the Ethereum blockchain and smart contracts.
+MetaMask: A browser extension used for Ethereum wallet management and blockchain interaction.
+
+<b>User Interface (UI):</b></br>
+HTML Forms: Used for user input .
+Buttons: To trigger actions like retrieving patient details.
+Text Fields and DIVs: To display patient and attendant details.
 
 <b> Video Demo </b>
 
