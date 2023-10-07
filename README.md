@@ -33,12 +33,12 @@ https://github.com/substobeme/blockchain-midsem1-project-smart-contract-for-medi
 # Advantage over traditional approach
 This project deviates from the tradition centralized database approach of storing and retrieving data by integrating smart contracts in accomplishing the set goal. </br>
 This is because of the following advantages:</br>
-<b>1.Immutable and Tamper-Proof:</b> Smart contracts on blockchain provide immutability, making it nearly impossible to alter or delete stored data. This is critical for maintaining the integrity of sensitive medical records.
+<b>1.Immutable and Secure:</b> Smart contracts on the blockchain make data almost impossible to change or delete, ensuring that important medical records remain trustworthy.
 
-<b> 2.Enhanced Security:</b> Blockchain technology employs robust encryption and cryptographic techniques, reducing the risk of data breaches and unauthorized access. Patient confidentiality is better protected.
+<b>2.Better Security:</b> Blockchain technology uses strong encryption and security methods, reducing the chances of data breaches and unauthorized access. Patients' private information is kept safer.
 
-<b> 3.Decentralization:</b> Data is not stored on a central server but distributed across a network of nodes. This decentralization reduces the risk of a single point of failure, making data more resilient and available.
+<b>3.Decentralization:</b> Data isn't kept on one central server; it's spread across many computers. This makes it less likely for all the data to be lost or damaged in one place.
 
-<b> 4.Reduced Administrative Overhead:</b> Smart contracts can automate administrative processes, reducing paperwork and manual data entry. This efficiency can lower operational costs for hospitals and clinics.
+<b>4.Less Administrative Work:</b> Smart contracts can handle routine administrative tasks, reducing the need for lots of paperwork and manual data input. This makes things more efficient and can save hospitals and clinics money.
 
-<b>  5.Audit Trails:</b> Smart contracts maintain detailed audit trails of data changes and access, providing a comprehensive history of each medical record. This can be valuable for compliance and legal purposes.
+<b>5.Detailed Record Keeping:</b> Smart contracts keep thorough records of any changes or access to data. This can be really useful for following rules and regulations, as well as for legal purposes.
